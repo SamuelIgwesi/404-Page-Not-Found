@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"left"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"s",
+				"sticky"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"o",
+				"orange"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"r",
+				"royalblue"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"m",
+				"maxlength"
+			],
+			[
+				"-",
+				"--grey"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"--",
+				"--dark"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"Lorem",
+				"lorem"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"re",
+				"greenyellow"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"y",
+				"cyan"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"ri",
+				"inherit"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"sl",
+				"slide"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a-",
+				"a-social-b"
+			],
+			[
+				"box-",
+				"box-3"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"n",
+				"num2"
+			],
+			[
+				"C",
+				"case"
+			],
+			[
+				"N",
+				"num2"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"ate",
+				"alternate-reverse"
+			],
+			[
+				"col",
+				"column-rule"
+			],
+			[
+				"column",
+				"column-count"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"one",
+				"none"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bordde",
+				"border-radius"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"DI",
+				"div"
+			],
+			[
+				"bl",
+				"skyblue"
+			],
+			[
+				"em",
+				"em"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/project4/reg.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/project4/reg.js",
+		"/C/Users/dell/Downloads/react-0.14.3.zip",
+		"/C/Users/dell/Desktop/HTML/Image slider/Index.html",
+		"/C/Users/dell/Desktop/HTML/index.html",
+		"/C/Users/dell/Desktop/HTML/Content box/index.html",
+		"/C/Users/dell/Desktop/HTML/Content box/style.css",
+		"/C/Users/dell/Desktop/HTML/Menu drop down/style.css",
+		"/C/Users/dell/Desktop/HTML/Menu drop down/Index.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/My profile/project.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Calculator/calc.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Calculator/calculator.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Calculator/calc.js",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/Introduction/calc.js",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/Introduction/calculator.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/calculator.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/Introduction/Index.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/calc.js",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Project/style.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/My profile/Image.jpg",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/Introduction/index.js",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/calc.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/Button.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/button.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 5/animated button.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/GSC/style.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/GSC/index.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/google project/style.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/google project/index.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/Position/style.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/Position/index.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/Float/style.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/week 3/Float/Index.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/Login.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/project.css",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/Registeration.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/project4/Index.html.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/project.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/project4.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/Index.html",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 2/Project 3",
+		"/C/Users/dell/Desktop/HTML FOLDERS/Week 1/About.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 142.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

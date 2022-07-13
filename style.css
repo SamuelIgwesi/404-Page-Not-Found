@@ -1,0 +1,142 @@
+*{
+	margin: 0;
+	padding: 0;
+	/*overflow: hidden;*/
+}
+body{
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(235, 223, 229, 0.8);
+	max-height: 550px;
+}
+/*Picture and content styles*/
+.container{
+	padding: 200px 320px;
+	width: 750px;
+	align-items: center;
+	justify-content: center;
+	/*display: flex;*/
+	/*flex-direction: column;*/
+	/*overflow: hidden;*/
+}
+/*Text and button*/
+.content{
+	float: right;
+	display: block;
+}
+.left{
+	float: left;
+	padding-right: 0;
+}
+img{
+	width: 300px;
+	height: 250px;
+}
+h1{
+	font-size: 60px;
+	font-style: montserat;
+	line-height: 50px;
+}
+p{
+	font-size: 30px;
+	font-style: sans-serif;
+	line-height: 40px;
+}
+button{
+	background-color: rgba(59, 49, 54, 1.0);
+	color: white;
+	padding: 7px;
+}
+
+/*Responsive layout*/
+@media screen and (max-width: 720px){
+*{
+	margin: 0;
+	padding: 0;
+	/*overflow: hidden;*/
+}
+
+body{
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(235, 223, 229, 0.8);
+	max-height: 550px;
+}
+.container{
+	padding: 30px 75px;
+	width: 550px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+}
+.content{
+	padding-left: 20px;
+}
+img{
+	width: 400px;
+	height: 280px;
+	align-self: center;
+}
+h1{
+	font-size: 60px;
+	font-style: montserat;
+}
+h1 span {
+	display: block;
+}
+p{
+	font-size: 30px;
+	font-style: sans-serif;
+}
+button{
+	background-color: rgba(59, 49, 54, 1.0);
+	color: white;
+	padding: 5px;
+}
+}
+
+@media screen and (max-width: 375px){
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+body{
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(235, 223, 229, 0.8);
+	max-height: 550px;
+}
+.container{
+	padding: 15px 7px;
+	width: 350px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+}
+img{
+	width: 220px;
+	height: 250px;
+	align-self: center;
+}
+h1{
+	font-size: 50px;
+	font-style: montserat;
+
+}
+p{
+	font-size: 26px;
+	font-style: sans-serif;
+}
+button{
+	background-color: rgba(59, 49, 54, 1.0);
+	color: white;
+	padding: 5px;
+}
+}
